@@ -1,2 +1,4 @@
-# APS---Curriculum-Vitae-HTML
-Criação de um Curriculo com HTML e CSS
+Criação de um Curriculo generico com HTML e CSS
+
+ATENÇÃO : OS DADOS DESTE CURRICULO SÃO FICTICIOS E PORTANTO
+NÃO DEVEM SER LEVADOS A SÉRIO.
